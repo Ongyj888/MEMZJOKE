@@ -1,0 +1,49 @@
+
+
+Press PAGE DOWN for better view.
+
+
+
+****PLEASE READ THE STEPS INSTRUCTION*****
+
+
+
+
+
+
+
+
+-----LICENCE & TERMS AND CONDITIONS-----
+This virus is created by Ongyj888.
+The owner is NOT responsible for any 
+damage to your computer.
+
+The creator recommend to use VM (Virtual
+Machine)
+Feel free to edit the core files in folder
+
+
+
+
+
+
+-----STEPS (IMPORTANT)-----
+-------------------------------------------------------
+|					 |
+| I am a noob scripter so please follow steps below:  |
+|					 |
+-------------------------------------------------------
+1. Create a new folder named 'MEMZ' in 
+Desktop (without ')
+2. Choose the location to extract these 
+files to MEMZ folder you created early.
+3. Wait this installer to install it.
+4. Create a shortcut to this path:
+%userprofile%\Desktop\MEMZ\RobloxPlayerSetup.exe
+
+Press YES if you accept terms and 
+conditions
+
+Press NO if you did not want to install
+this application or did not accept terms
+and conditions.

