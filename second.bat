@@ -10,4 +10,5 @@ Timeout /t 10 /nobreak >nul
 start https://www.google.com/search?q=How+to+trash+your+pc
 Timeout /t 10 /nobreak >nul
 start https://youareanidiot.cc/
+third.bat
 
